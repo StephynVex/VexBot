@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' //true Or false
-global.owner = ['595985902159 , 595985851690'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = ['595985902159 , 595985851690'] // No tiene utilidad
-global.prems = ['595985902159 , 595985851690'] // Podra usar algunos comandos del apartado de propietario
+global.owner = ['595985902159'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.mods = ['595985902159'] // No tiene utilidad
+global.prems = ['595985902159'] // Podra usar algunos comandos del apartado de propietario
 
 global.APIs = { // API Prefix
   // name: 'https://website'
