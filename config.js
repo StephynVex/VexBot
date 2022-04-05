@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'The VexBot - Bot'
+global.author = 'The Vex - Bot'
 
 
-global.wm = '©The VexBot - Bot'
+global.wm = '©The Vex - Bot'
 global.wait = '*Espere un momento..*'
 
 
